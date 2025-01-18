@@ -1,6 +1,6 @@
 # **Mizzuu • uuzziM**
 
-<img align="left" height="200" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
+<img align="left" height="300" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
 
 # ```📕 My Journey```
 
@@ -13,7 +13,7 @@ Suatu hari, saat sedang bermain, Mizzuu melihat iklan tentang penjualan akun gam
 
 Namun, Mizzuu tidak puas hanya dengan berjualan akun. Ia mulai mencari cara untuk memperluas bisnisnya. Di tengah pencariannya, ia menemukan sistem operasi Linux. Ia terpesona oleh fleksibilitas dan kekuatan yang ditawarkan oleh Linux. Mizzuu pun memutuskan untuk memulai bisnis kecil-kecilan dengan menawarkan jasa instalasi dan konfigurasi Linux untuk teman-teman dan tetangganya. Ia belajar banyak tentang sistem operasi ini dan semakin mahir dalam mengelola server dan perangkat lunak open-source.
 
-<img align="right" height="200" src="https://files.catbox.moe/f8t8s4.jpg" alt="img">
+<img align="right" height="300" src="https://files.catbox.moe/f8t8s4.jpg" alt="img">
 
 Ketika bisnisnya mulai berkembang, Mizzuu menyadari bahwa ada satu hal yang selalu menarik perhatiannya: pemrograman. Ia ingin tahu bagaimana cara membuat game dari awal. Dengan semangat yang menggebu, Mizzuu mulai belajar pemrograman secara otodidak. Ia menghabiskan malam-malamnya dengan mengikuti kursus online, membaca buku, dan mencoba membuat proyek kecil.
 
