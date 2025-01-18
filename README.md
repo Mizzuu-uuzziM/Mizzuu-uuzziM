@@ -1,6 +1,6 @@
 # **Mizzuu • uuzziM**
 
-<img align="left" height="240" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
+<img align="left" height="200" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
 
 # ```📕 My Journey```
 
