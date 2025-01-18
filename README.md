@@ -23,7 +23,7 @@ export.run = {
 | Status | Student |
 | Country | Indonesian |
 
-<video src='' alt=''>
+<video src='https://files.catbox.moe/4senmd.jpg' alt='video'>
 
 ## 👤 Report/Request/Social
 
