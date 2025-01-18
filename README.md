@@ -1,6 +1,6 @@
 # **Mizzuu • uuzziM**
 
-![Logo](https://files.catbox.moe/31gal9.jpg)
+<img align='left' src='https://files.catbox.moe/31gal9.jpg' alt='img'>
 
 # ```📕 My Journey```
 
