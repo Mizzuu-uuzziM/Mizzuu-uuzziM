@@ -24,6 +24,8 @@ Kini, Mizzuu tidak hanya seorang gamer, tetapi juga seorang pengembang Script ya
 
 > ini di buat oleh ai
 
+![Logo](https://files.catbox.moe/mfksrx.jpg)
+
 ## ♻️ Bio Mizzuu
 
 ```javascript
