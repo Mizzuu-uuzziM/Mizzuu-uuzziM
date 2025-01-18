@@ -16,14 +16,14 @@ export.run = {
 ```
 
 
-|     👤👤     | Information                      |
+|     👤👤     | Information |
 | :----------: | :------------------------------ |
 | Name | Mizzuu, MizzuuNotSleep, mizzuu.html, uuzziM |
 | Hoby | Eat, Sleep, Longtext, Drytext, PlayingGames |
 | Status | Student |
 | Country | Indonesian |
 
-<vid src='https://files.catbox.moe/j9qrv3.mp4' alt='vid'>
+![Video](https://files.catbox.moe/j9qrv3.mp4)
 
 ## 👤 Report/Request/Social
 
