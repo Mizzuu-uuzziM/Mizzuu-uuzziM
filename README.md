@@ -2,7 +2,7 @@
 
 ![Logo](https://files.catbox.moe/rrlxkw.jpg)
 
-```> My Journey```
+# ```> My Journey```
 
 ## ♻️ Bio Mizzuu
 
