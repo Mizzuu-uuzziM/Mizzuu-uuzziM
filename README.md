@@ -1,6 +1,6 @@
 # **Mizzuu • uuzziM**
 
-![Logo](https://files.catbox.moe/rrlxkw.jpg)
+![Logo](https://files.catbox.moe/31gal9.jpg)
 
 # ```📕 My Journey```
 
@@ -43,7 +43,7 @@ export.run = {
 | Status | Student |
 | Country | Indonesian |
 
-
+![Logo](https://files.catbox.moe/f8t8s4.jpg)
 
 ## 👤 Report/Request/Social
 
