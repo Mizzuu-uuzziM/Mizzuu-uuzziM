@@ -1,5 +1,5 @@
 # Mizzuu • uuzziM
 
-<img src='https://files.catbox.moe/rrlxkw.jpg' alt='img'>
+<img style='border-radius=50px' src='https://files.catbox.moe/rrlxkw.jpg' alt='img'>
 
 ## ♻️ Bio Mizzuu
