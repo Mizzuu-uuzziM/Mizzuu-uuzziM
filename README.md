@@ -1,6 +1,6 @@
 # **Mizzuu • uuzziM**
 
-[Logo](https://files.catbox.moe/rrlxkw.jpg)
+![Logo](https://files.catbox.moe/rrlxkw.jpg)
 
 ```> My Journey```
 
