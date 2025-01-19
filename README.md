@@ -1,9 +1,12 @@
 # <p align='center'>**Mizzuu • uuzziM**</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Visitors;+I'm+Mizzuu+-+uuzziM;"/>
-
 
 ![Logo](https://files.catbox.moe/c3qh7p.jpg)
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Visitors;+I'm+Mizzuu+-+uuzziM;"/>
+
 
 
 <img align="left" height="300" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
