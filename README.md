@@ -1,6 +1,6 @@
 # **Mizzuu • uuzziM**
 
-![Logo]()
+![Logo](https://files.catbox.moe/b8l4eg.mp3)
 
 
 <img align="left" height="300" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
