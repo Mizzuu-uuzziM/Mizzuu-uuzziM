@@ -5,7 +5,7 @@
 </a>
 
 # TOTAL VISITORS
-<img align="center" src="https://profile-counter.glitch.me/Mizzuu-uuzziM/count.svg" alt="Visitor Count") />
+<img align="center" src="https://profile-counter.glitch.me/Mizzuu-uuzziM/count.svg" alt="Visitor Count"/>
 
 
 ![Logo](https://files.catbox.moe/c3qh7p.jpg)
