@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hello+Visitors;+I'm+Mizzuu+-+uuzziM;"/>
 </a>
 
+# TOTAL VISITORS
+![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
 
 
 ![Logo](https://files.catbox.moe/c3qh7p.jpg)
@@ -13,6 +15,8 @@
 
 # ```📕 My Journey```
 
+
+<details>
 
 <img align="left" height="300" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
 
@@ -38,9 +42,13 @@ Kini, Mizzuu tidak hanya seorang gamer, tetapi juga seorang pengembang Script ya
 
 > ini di buat oleh ai
 
+</details>
+
 ![Logo](https://files.catbox.moe/mfksrx.jpg)
 
 ## ♻️ Bio Mizzuu
+
+<details>
 
 ```javascript
 export.run = {
@@ -51,7 +59,6 @@ export.run = {
 }
 ```
 
-
 |     👤👤     | Information |
 | :----------: | :------------------------------ |
 | Name | Mizzuu, MizzuuNotSleep, mizzuu.html, uuzziM |
@@ -59,7 +66,7 @@ export.run = {
 | Status | Student |
 | Country | Indonesian |
 
-
+</details>
 
 ## 👤 Report/Request/Social
 
