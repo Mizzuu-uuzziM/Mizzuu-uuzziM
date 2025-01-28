@@ -5,7 +5,7 @@
 </a>
 
 # TOTAL VISITORS
-![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Mizzuu-uuzziM/count.svg)
 
 
 ![Logo](https://files.catbox.moe/c3qh7p.jpg)
