@@ -5,8 +5,9 @@
 </a>
 
 # TOTAL VISITORS
+<center>
 <img align="center" src="https://profile-counter.glitch.me/Mizzuu-uuzziM/count.svg" alt="Visitor Count"/>
-
+</center>
 
 ![Logo](https://files.catbox.moe/c3qh7p.jpg)
 
@@ -42,9 +43,10 @@ Kini, Mizzuu tidak hanya seorang gamer, tetapi juga seorang pengembang Script ya
 
 > ini di buat oleh ai
 
-</details>
 
 ![Logo](https://files.catbox.moe/mfksrx.jpg)
+
+</details>
 
 ## ♻️ Bio Mizzuu
 
