@@ -1,13 +1,13 @@
-# <p align='center'>**Mizzuu • uuzziM**</p>
+# <p align='center'>```Mizzuu • uuzziM```</p>
 
 <a href='https://wa.me/6281359932022'>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hello+Visitors;+I'm+Mizzuu+-+uuzziM;"/>
 </a>
 
 # TOTAL VISITORS
-<center>
+
 <img align="center" src="https://profile-counter.glitch.me/Mizzuu-uuzziM/count.svg" alt="Visitor Count"/>
-</center>
+
 
 ![Logo](https://files.catbox.moe/c3qh7p.jpg)
 
