@@ -11,11 +11,11 @@
 
 
 
+# ```📕 My Journey```
 
 
 <img align="left" height="300" src='https://files.catbox.moe/31gal9.jpg' alt='img'>
 
-# ```📕 My Journey```
 
 
 Di sebuah kota kecil, hiduplah seorang remaja bernama Mizzuu. Sejak kecil, Mizzuu sangat menyukai permainan video. Ia menghabiskan berjam-jam di depan layar, menjelajahi dunia virtual, bertarung dengan monster, dan menjalin persahabatan dengan pemain lain. Namun, semakin lama, rasa ingin tahunya tentang bagaimana game-game tersebut dibuat semakin membara.
