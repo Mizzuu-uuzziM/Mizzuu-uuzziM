@@ -73,3 +73,5 @@ export.run = {
 ## 👤 Report/Request/Social
 
 [![WhatsApp Chats](https://img.shields.io/badge/WhatsApp%20Chats-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281359932022)
+
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VakOqnmHrDZZXkFcKj0x)
