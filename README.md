@@ -9,7 +9,7 @@
 <img align="center" src="https://profile-counter.glitch.me/Mizzuu-uuzziM/count.svg" alt="Visitor Count"/>
 
 
-![Logo](https://files.catbox.moe/c3qh7p.jpg)
+[![Logo](https://files.catbox.moe/c3qh7p.jpg)](https://wa.me/6281359o32022)
 
 
 
